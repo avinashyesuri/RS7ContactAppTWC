@@ -1,5 +1,6 @@
 ## RS7ContactAppTWC 
 
+
 RS7ContactAppTWC is a React-based contact management web application that allows users to add, update, and delete contacts. The application is integrated with Firebase for real-time data storage and retrieval. It also features filtering functionality, responsive design, and user notifications using react-toastify.
 
 ## Features 
