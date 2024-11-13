@@ -31,6 +31,7 @@ React Toastify: Notification library for React.
 Tailwind CSS: Utility-first CSS framework for styling
 
 
+
 ## Home page:
 
 ![image](https://github.com/user-attachments/assets/182a5f76-2b06-4d9d-bb56-e45bf0758a4e)
